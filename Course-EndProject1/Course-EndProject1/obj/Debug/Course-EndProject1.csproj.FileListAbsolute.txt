@@ -1,0 +1,7 @@
+E:\Mphasis\Course End_Project1\Course-EndProject1\Course-EndProject1\bin\Debug\Course-EndProject1.exe.config
+E:\Mphasis\Course End_Project1\Course-EndProject1\Course-EndProject1\bin\Debug\Course-EndProject1.exe
+E:\Mphasis\Course End_Project1\Course-EndProject1\Course-EndProject1\bin\Debug\Course-EndProject1.pdb
+E:\Mphasis\Course End_Project1\Course-EndProject1\Course-EndProject1\obj\Debug\Course-EndProject1.csproj.AssemblyReference.cache
+E:\Mphasis\Course End_Project1\Course-EndProject1\Course-EndProject1\obj\Debug\Course-EndProject1.csproj.CoreCompileInputs.cache
+E:\Mphasis\Course End_Project1\Course-EndProject1\Course-EndProject1\obj\Debug\Course-EndProject1.exe
+E:\Mphasis\Course End_Project1\Course-EndProject1\Course-EndProject1\obj\Debug\Course-EndProject1.pdb
